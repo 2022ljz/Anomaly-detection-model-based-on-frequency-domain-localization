@@ -1,0 +1,12 @@
+einops==0.8.0
+local-attention==1.9.15
+matplotlib==3.7.0
+numpy==1.23.5
+pandas==2.2.3
+patool==1.12
+reformer-pytorch==1.4.4
+scikit-learn==1.2.2
+scipy==1.10.1
+sktime==0.36.0
+sympy==1.13.1
+tqdm==4.64.1
